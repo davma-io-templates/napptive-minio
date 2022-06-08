@@ -18,7 +18,7 @@ MinIO offers high-performance, S3 compatible object storage.
 
 ## How to access to MINIO
 
-Once the application has been deployed, open the public endpoint navigating through the web UI to select the application, selecting the wordpress component, and clicking on the associated Endpoint. Alternatively with the CLI use:
+Once the application has been deployed, open the public endpoint navigating through the web UI to select the application, selecting the Minio component, and clicking on the associated Endpoint. Alternatively with the CLI use:
 
 ```
 playground apps open davmaio-minio
