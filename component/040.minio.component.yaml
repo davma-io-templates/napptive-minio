@@ -24,7 +24,7 @@ spec:
             apiVersion: core.oam.dev/v1alpha2
             kind: ManualScalerTrait
             metadata:
-              name: example-appconfig-trait
+              name: davmaio-minio-trait
             spec:
               replicaCount: 1
       scopes:

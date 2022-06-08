@@ -52,22 +52,3 @@ https://davmaio-minio-<active-namespace>.apps.playground.napptive.dev/identity/a
 ## References
 * https://min.io/
 * https://docs.min.io/minio/baremetal/console/minio-console.html/
-
-
-
-
-
-
-
-
-
-
-<!--    
-
-        playground login --patFile D:/Github/no-git/napptive-cli/test_pat.dat
-        kubectl --kubeconfig napptive-cli/napptive-kubeconfig create -f napptive-minio/ 
-
-        playground catalog push davma-io/MINIO:v1.0 napptive-minio/
-        playground catalog remove davma-io/MINIO:v1.
-        
--->
