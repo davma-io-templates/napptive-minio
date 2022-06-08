@@ -1,0 +1,18 @@
+apiVersion: core.napptive.com/v1alpha1
+kind: ApplicationMetadata
+name: "MINIO"
+version: 2022.6.3
+description: Open Source content management with Mysql database
+keywords:
+  - "MINIO"
+  - "storage"
+  - "S3"
+  - "davma"
+  - "davma.io"
+license: "GNU AGPL v3"
+url: "https://hub.docker.com/r/bitnami/minio"
+doc: "https://docs.min.io/"
+logo:
+  - src: "https://min.io/resources/img/logo.svg"
+    type: "image/svg"
+    size: "500x500"
