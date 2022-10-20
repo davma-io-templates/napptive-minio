@@ -1,5 +1,7 @@
 # MINIO template for NAPPTIVE
 
+__This repository is deprecated. You can find the latest versions for napptive playground in the following link: [https://github.com/davma-io-templates/napptive-template](https://github.com/davma-io-templates/napptive-template)__
+
 Minio deployment with a single click in NAPPTIVE. Once registered on the platform you can deploy the application from the application catalog.
 
 ## Requirements
